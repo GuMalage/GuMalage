@@ -3,10 +3,6 @@
 
 ###
 
-<h3 align="left">ADS | Pesquisa em PLN, ML e Engenharia de Requisitos  </h3>
-
-###
-
 <p align="left">🔎 Pesquisador em formação, participando de Iniciação Científica, atuando na integração de Processamento de Linguagem Natural (PLN) e Aprendizagem de Máquina (AM) em Engenharia de Software, com foco em Engenharia de Requisitos.<br><br>🤖 Interesses: Ciência de Dados, PLN, Modelos de Linguagem (LLMs), Machine Learning, automação inteligente, aprendizado contínuo e pesquisa aplicada ao ensino.<br><br>🚀 Em breve: códigos e experimentos da minha pesquisa em IA aplicada à priorização de requisitos de software.</p>
 
 ###
